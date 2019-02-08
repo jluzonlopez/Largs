@@ -1,0 +1,16 @@
+-----------
+Ejercicio 1
+-----------
+Para hacer ssh a esa maquina lo único que hace falta es utilizar como clave privada que nos da el profesor. Para ello utilizamos el comando:
+ssh -i ~/lagrs.diciembre.18/claves/id_ed25519 alumno@193.147.79.2
+-----------
+Ejercicio 2
+-----------
+(No contestes aquí, sino en vigila_puertos.py)
+
+-----------
+Ejercicio 3
+-----------
+(No contestes aquí, sino en los ficheros indicados)
+
+

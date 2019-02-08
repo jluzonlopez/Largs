@@ -1,0 +1,29 @@
+host alpha* beta* gamma* delta*  bilo pantuflo 
+user alumno
+
+host gsyc
+user alumno
+hostname 193.147.79.64
+
+host alpha
+user alumno
+hostname alpha.aulas.gsyc.urjc.es
+
+host profes
+user alumno
+hostname profes.aulas.gsyc.urjc.es
+
+host nano
+user root
+hostname 193.147.73.55
+
+
+#host localhost
+#port 10022
+#user user
+
+
+
+# man 5 ssh_config
+host *
+  ServerAliveInterval 60
