@@ -1,0 +1,1 @@
+lgunos de los sistemas de codificación más usados son: ASCII, ISO-8859-1 o Latín-1 y UTF-8. Los archivos de texto plano carecen de información destinada a generar formatos (negritas, subrayado, cursivas, tamaño, etc.) y tipos de letra (por ejemplo, Arial, Times, Courier, etc.).
